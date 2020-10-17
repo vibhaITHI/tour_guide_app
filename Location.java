@@ -1,4 +1,4 @@
-package com.example.dhrumilshah.tourguide;
+package tourguide;
 
  class Location {
     private int mImageResourceId;
